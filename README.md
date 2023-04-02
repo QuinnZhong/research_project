@@ -4,7 +4,7 @@
 
 ## About A/V Accessibility Research Project
 
-Designing a basic, accessible interface to allow users to navigate your app. Also need a couple of pages that display your audio and video assets with multimedia
+Designing a basic, accessible interface to allow users to navigate your app. Also need a couple of pages that display audio and video assets with multimedia
 controls.
 
 ### Built With
